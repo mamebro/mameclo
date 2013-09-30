@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'mameclo'
+
+Mameclo::CLI.start
