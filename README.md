@@ -16,10 +16,12 @@ Or install it yourself as:
     $ gem install mameclo
 
 ## Usage
-Commands:
+### Commands
+```
   mameclo entry [number]  # Open the entry
   mameclo help [COMMAND]  # Describe available commands or one specific command
   mameclo open            # Open http://www.mameblo.com by default browser
+```
 
 ## Contributing
 
