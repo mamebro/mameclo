@@ -13,5 +13,10 @@ module Mameclo
       say("title:\n" + body['title'] + "\n\n")
       say("content:\n" + body['content'])
     end
+
+    desc "open", "まめぶろのTOPページをブラウザで表示します"
+    def open
+      system('open http://www.mameblo.com')
+    end
   end
 end
