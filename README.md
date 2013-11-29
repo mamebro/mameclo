@@ -1,6 +1,5 @@
 # Mameclo
-
-TODO: Write a gem description
+Command line tool for http://www.mameblo.com
 
 ## Installation
 
@@ -17,8 +16,10 @@ Or install it yourself as:
     $ gem install mameclo
 
 ## Usage
-
-TODO: Write usage instructions here
+Commands:
+  mameclo entry [number]  # Open the entry
+  mameclo help [COMMAND]  # Describe available commands or one specific command
+  mameclo open            # Open http://www.mameblo.com by default browser
 
 ## Contributing
 

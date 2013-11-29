@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Mameclo::VERSION
   spec.authors       = ["Yuta Kurotaki"]
   spec.email         = ["yuta.kurotaki@gmail.com"]
-  spec.description   = %q{command line tool for www.mameblo.com}
+  spec.description   = %q{command line tool for http://www.mameblo.com}
   spec.summary       = %q{Simple client tool for mameblo}
   spec.homepage      = ""
   spec.license       = "MIT"
